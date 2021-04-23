@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:swiftScan.xcodeproj">
+      location = "self:/Users/lizhihui/Workspace/swiftScan/SwiftScan.xcodeproj">
    </FileRef>
 </Workspace>

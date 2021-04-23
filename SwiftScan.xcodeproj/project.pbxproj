@@ -540,7 +540,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8LQ7CL73D8;
-				INFOPLIST_FILE = swiftScan/Info.plist;
+				INFOPLIST_FILE = swiftScan/SampleApp/Info.plisl;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lbx.hk2019235;
@@ -560,7 +560,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LM3HW8FY8K;
-				INFOPLIST_FILE = swiftScan/Info.plist;
+				INFOPLIST_FILE = swiftScan/SampleApp/Info.plisl;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.51shaoxi.github.swiftScan;
